@@ -1,0 +1,9 @@
+Ime:P
+Glasopodavateli:5
+Ostavashti glasove:0
+GERB:100%
+VMRO:0%
+BZNS:0%
+GORD:0%
+GOR:0%
+
